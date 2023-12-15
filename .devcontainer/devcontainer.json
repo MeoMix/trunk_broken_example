@@ -1,0 +1,7 @@
+{
+    "name": "trunk-broken-example",
+    "build": {
+      "dockerfile": "Dockerfile"
+    }
+  }
+  
