@@ -36,4 +36,4 @@ Confirm that `index.html` contains:
 </html>
 ```
 
-You may then edit `data-bin` to an invalid value, i.e. `data-bin="example", and observe that invalid value is detected by Trunk. So, the configuraiton is being read, but is insufficient to eliminate error.
+You may then edit `data-bin` to an invalid value, i.e. `data-bin="example"`, and observe that invalid value is detected by Trunk. So, the configuraiton is being read, but is insufficient to eliminate error.
