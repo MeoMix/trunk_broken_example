@@ -37,3 +37,5 @@ Confirm that `index.html` contains:
 ```
 
 You may then edit `data-bin` to an invalid value, i.e. `data-bin="example"`, and observe that invalid value is detected by Trunk. So, the configuraiton is being read, but is insufficient to eliminate error.
+
+Prior to this, in v0.17.x, `cdylib` was not a supported target and so no bin configuration was required.
